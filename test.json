@@ -1,0 +1,114 @@
+{
+	"code": 200,
+	"msg": "success",
+	"data": {
+		"records": [{
+				"name": "Example Game 1",
+				"description": "This is a description for Example Game 1.",
+				"iconUrl": "https://example.com/icon1.jpg"
+			},
+			{
+				"name": "Example Game 2",
+				"description": "This is a description for Example Game 2.",
+				"iconUrl": "https://example.com/icon2.jpg"
+			},
+			{
+				"name": "Example Game 3",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 4",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 5",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 6",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 7",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 8",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 9",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 10",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 11",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 12",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 13",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 14",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 15",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 16",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 17",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 18",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+			{
+				"name": "Example Game 19",
+				"description": "This is a description for Example Game 3.",
+				"iconUrl": "https://example.com/icon3.jpg"
+			},
+
+			{
+				"name": "Example Game 20",
+				"description": "This is a description for Example Game 20.",
+				"iconUrl": "https://example.com/icon20.jpg"
+			}
+		],
+		"total": 20,
+		"size": 10,
+		"current": 1,
+		"orders": [],
+		"searchCount": true,
+		"pages": 2
+	}
+}
